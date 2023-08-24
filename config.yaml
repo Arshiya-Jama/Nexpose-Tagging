@@ -1,0 +1,4 @@
+---
+mainUrl: "https://<IP address>:<port>"
+authHash: "Basic authentication"
+tagFile: "assets to be tagged.csv"
